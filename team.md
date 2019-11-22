@@ -3,7 +3,7 @@ layout: default
 title: Team
 ---
 
-# Person A
+# Bored Hendrix
 
 Short bio ...
 
